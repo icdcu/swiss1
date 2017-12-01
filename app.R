@@ -4,7 +4,7 @@ library(shiny)
 ui <- fluidPage(
   
   # App title ----
-  titlePanel("Github SWISS1: EHR navigation pattern"),
+  titlePanel("SWISS1: EHR navigation pattern"),
   
   # Sidebar layout with a input and output definitions ----
   sidebarLayout(
